@@ -24,6 +24,7 @@ cd svelte-rocket
 npm install
 ```
 
+> Note: if you download the Git repository manually, do so with the `--depth=1` option, as previously stored assets in the repository balloon the clone size to over 500MiB.
 
 ...then start Rocket server and [Vite](https://vitejs.dev) in two different terminals 
 
